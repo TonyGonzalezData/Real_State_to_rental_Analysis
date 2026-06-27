@@ -9,8 +9,7 @@ To achieve this, we divide the project into two main parts:
 
 •	**Discovery**: Data analysis aimed at identifying insights that clarify which patterns we should focus on when looking for an investment property (guided by the current housing supply and rental demand).
 
-•	**Reporting**: Creating a dashboard that enables detailed analysis of the most relevant metrics to determine whether a district or property meets our general criteria for profitability and available investment capital. It also provides access to the URLs of these 
-properties, allowing the operator to conduct a deeper analysis.
+•	**Reporting**: Creating a dashboard that enables detailed analysis of the most relevant metrics to determine whether a district or property meets our general criteria for profitability and available investment capital. It also provides access to the URLs of these properties, allowing the operator to conduct a deeper analysis.
 
 
 ## About the Dataset
@@ -70,12 +69,11 @@ The final report with conclusions on the real estate market situation for invest
 
 As for the dashboard, you can access it at this public Tableau link: [Investment in Housing for Long-Term Rental in the Real State Market of La Coruña](https://public.tableau.com/app/profile/antonio.gonz.lez.pazos/viz/DashboardInvestmentinHousingforLong-TermRentalintheRealStateMarketofLaCorua/Dashboard)
 
+[![Tableau Dashboard](images/tableau_dashboard.png)](https://public.tableau.com/app/profile/antonio.gonz.lez.pazos/viz/DashboardInvestmentinHousingforLong-TermRentalintheRealStateMarketofLaCorua/Dashboard)
+
 > [!NOTE]  
 > The project was developed using data dated October 29, 2024.
 > 
 > Therefore, some of the insights and conclusions are only relevant within this time frame.
 > 
 > The same applies to the Tableau Dashboard, which reflects the information from that date.
-
-
-
