@@ -1,0 +1,10 @@
+# Real State to Rental Analysis — EDA & market analysis
+# Generated from notebook imports · June 2026
+
+googlemaps>=4.10.0
+matplotlib>=3.8.2
+numpy>=1.26.4
+pandas>=2.1.4
+pyjanitor>=0.28.0
+seaborn>=0.13.2
+tqdm>=4.66.1
